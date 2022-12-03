@@ -8,7 +8,7 @@ Author: Ismail Alamir
 ### Setup
 -  python 3.10.7
 
-## [Pull requests](https://github.com/IsmailAlamir/django-models/pull/1)
+## [Pull requests](https://github.com/IsmailAlamir/django-models/pull/2)
 
 
 #### run the server
