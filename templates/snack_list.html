@@ -4,9 +4,9 @@
 
 <h1>Snack list</h1>
 
-{% for snack in object_list %}
+{% for snack in snack_item %}
 
-    <h3> {{snack.name}} </h3>
+    <h3><a href="{% url 'detail' snack.id %}">{{snack.name}}</a>  </h3>
 
     {% endfor%}
 {% endblock content%}  
